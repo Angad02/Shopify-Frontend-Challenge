@@ -1,0 +1,49 @@
+$text-color: #30373B;
+$success-color: #7AB55C;
+$error-color: #C23628;
+$border-color: #A7A7A7;
+
+$body-font-size: 13px;
+$title-font-size: 32px;
+$subtitle-font-size: 20px;
+$form-font-size: 16px;
+
+
+
+#header h1
+{
+  font-size: 32px;
+  text-color: #30373B;
+  text-align: center;
+}
+
+#subheader h1
+{
+  subtitle-font-size: 20px;
+  text-color: #30373B;
+
+}
+.btn-default
+{
+  background-color: #7AB55C !important; /* Green */
+    
+    color: white !important;
+    padding: 11px 40px !important;
+    text-align: center !important;
+    display: inline-block !important;
+    font-size: 16px !important;
+}
+// .input-group{
+//  padding: 20px 32px;
+//     text-align: center;
+//     margin-left: auto;
+//     margin-right: auto;
+//     width:px;
+// }
+
+hr {
+  background: #7AB55C !important;
+  width: 3% !important;
+  height: 3px !important;
+  
+}
